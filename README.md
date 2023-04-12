@@ -1,6 +1,8 @@
 <h1 align="center">Hi 😎, I'm Ravindu Jayaweera</h1>
 <h3 align="center">UI/UX and Web Development Enthusiast 👨‍💻</h3>
 
+- 👻 I am a Third Year Undergraduate at University of Sri Jayewardenepura and Also Pursuing BCS HEQ 🎓
+
 - 🌱 I’m currently learning **Python, JavaScript, UI/UX Designing, Data Science**
 
 - 📫 Reach Me via **ravidujayaweera99@gmail.com**
