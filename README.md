@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Python, Javascript, UI/UX Designing**
 
 - 📫 How to reach me **ravidujayaweera99@gmail.com**
-- 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
