@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **ravidujayaweera99@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1d7gj4hL5uU7RKufpzLjav&ust=1681409232204000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD2-9H3pP4CFQAAAAAdAAAAABAQ">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1d7gj4hL5uU7RKufpzLjav&ust=1681409232204000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD2-9H3pP4CFQAAAAAdAAAAABAQ" align="right">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravindu-jayaweera-a170721b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9" height="30" width="40" /></a>
