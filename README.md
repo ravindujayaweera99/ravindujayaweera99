@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ravindu Jayaweera</h1>
-<h3 align="center">UI/UX and Web Development Enthusiast</h3>
+<h1 align="center">Hi 😎, I'm Ravindu Jayaweera</h1>
+<h3 align="center">UI/UX and Web Development Enthusiast 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Python, Javascript, UI/UX Designing**
+- 🌱 I’m currently learning **Python, JavaScript, UI/UX Designing, Data Science**
 
 - 📫 How to reach me **ravidujayaweera99@gmail.com**
 
