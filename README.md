@@ -3,7 +3,7 @@
 
 - 👻 Third Year Undergraduate at University of Sri Jayewardenepura and Final Level Student of BCS HEQ 🎓
 
-- 🌱 I’m currently learning **Python, JavaScript, UI/UX Designing, Data Science**
+- 🌱 I’m currently learning **Full Stack Development and UI/UX Designing**
 
 - 📫 Reach Me via **ravidujayaweera99@gmail.com**
 
