@@ -1,7 +1,9 @@
 <h1 align="center">Hi 😎, I'm Ravindu Jayaweera</h1>
 <h3 align="center">Web Development and UI/UX Designing Enthusiast 👨‍💻</h3>
 
-- 👻 Third Year Undergraduate at University of Sri Jayewardenepura and Final Level Student of BCS HEQ 🎓
+- 🧑‍💻 BSc (Hons) Computer Science Undergraduate
+
+- 👻 Third Year Undergraduate at the University of Sri Jayewardenepura and Final Level Student of BCS HEQ 🎓
 
 - 🌱 I’m currently learning **Full Stack Development and UI/UX Designing**
 
