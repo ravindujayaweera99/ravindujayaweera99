@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎, I'm Ravindu Jayaweera</h1>
-<h3 align="center">Web Development and UI/UX Designing Enthusiast 👨‍💻</h3>
+<h3 align="center">Full Stack Development Enthusiast 👨‍💻</h3>
 
 - 🧑‍💻 BSc (Hons) Computer Science Undergraduate
 
