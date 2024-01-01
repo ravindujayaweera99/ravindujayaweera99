@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack
+🌱 I’m currently learning React 
 
 
 ## 🌐 Socials:
