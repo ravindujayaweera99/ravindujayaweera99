@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning React 
+🧑‍💻 BSc (Hons) Computer Science - 3rd Year Undergraduate 
 
 
 ## 🌐 Socials:
