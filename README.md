@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React, php and SQL
+🌱 I’m currently learning Javascript, React, PHP and SQL
 <br>
 🧑‍💻 BSc (Hons) Computer Science - 3rd Year Undergraduate
 🧑‍💻 PGD in IT from British Computer Society HEQ
