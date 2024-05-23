@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Learning MERN Stack, Java and Tailwind.css
+🔭 Exploring MERN Stack, REST Api and Java
 
 
 ## 🌐 Socials:
