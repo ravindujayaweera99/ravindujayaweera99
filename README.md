@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravindu Jayaweera</h1>
 <h3 align="center">Full Stack Developer who converts IDEAS into REALITY 🥂</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindujayaweera99&label=Profile%20views&color=0e75b6&style=flat" alt="ravindujayaweera99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindujayaweera99" alt="ravindujayaweera99" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [http://ravindu-jayaweera.vercel.app](http://ravindu-jayaweera.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
