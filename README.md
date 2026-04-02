@@ -108,14 +108,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > I don’t just write code — I design systems that scale 🚀
