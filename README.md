@@ -1,30 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ravindu Jayaweera</h1>
-<h3 align="center">🚀 Full Stack Engineer | Building Scalable & Impactful Digital Solutions</h3>
+<h3 align="center">🚀 Full Stack Engineer | DevOps Enthusiast | Building Scalable Systems</h3>
 
 <p align="center">
-  <a href="http://ravindu-jayaweera.vercel.app" target="_blank">
-    🌐 Portfolio
-  </a> •
-  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/" target="_blank">
-    💼 LinkedIn
-  </a>
+  <a href="http://ravindu-jayaweera.vercel.app" target="_blank">🌐 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 💡 Passionate about turning **complex ideas into scalable applications**
-- 🛠️ Strong focus on **Full Stack Development + DevOps Practices**
-- ☁️ Actively building expertise in **Cloud (AWS), CI/CD & Microservices**
-- 📈 Interested in **System Design, Performance Optimization & Distributed Systems**
-- 🎯 Goal: Become an **industry-level Software Engineer with strong DevOps expertise**
+💡 I specialize in building **scalable, production-ready applications** using modern full stack technologies.
+
+- 🔭 Currently working on **Full Stack + DevOps projects**
+- ☁️ Focused on **AWS, CI/CD, and Microservices Architecture**
+- ⚙️ Passionate about **System Design & Performance Optimization**
+- 🎯 Goal: Become a **high-impact Software Engineer (Full Stack + DevOps)**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 🖥️ Frontend
+### 🚀 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,figma" />
 </p>
@@ -41,21 +38,40 @@
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,kubernetes" />
 </p>
 
-### 💻 Programming
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,java,csharp" />
 </p>
 
 ---
 
+## 🔥 Featured Projects
+
+### 📌 KPI Management System
+- Full Stack App (React + Node.js + MySQL)
+- Dashboard with analytics & visualizations
+- Authentication + Role-based access
+
+### 📌 Marketing Automation Platform
+- Campaign management (SMS / WhatsApp / Email)
+- Contact segmentation & bulk messaging
+- Excel import/export system
+
+### 📌 🏨 Hotel Assistant (Microservices - Upcoming)
+- Distributed system architecture
+- Cloud-native deployment (AWS)
+- CI/CD pipeline integration
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindujayaweera99&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindujayaweera99&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindujayaweera99&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindujayaweera99&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
@@ -64,27 +80,21 @@
 
 ---
 
-## 🔥 Featured Projects
+## ⚡ Dev Activity Graph
 
-- 📌 **Full Stack KPI Management System**
-  - React + Node.js + MySQL
-  - Dashboard, Analytics, CRUD, Authentication
-
-- 📌 **Marketing & Communication Platform**
-  - Contact Management, Campaigns, SMS/WhatsApp Integration
-  - Excel Import/Export + Role-based Access
-
-- 📌 **Upcoming: Microservices-based Hotel Assistant**
-  - Distributed Architecture + Cloud + DevOps Pipeline
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindujayaweera99&theme=tokyo-night" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🧪 Current Focus
 
-- ⚡ Advanced **React & System Design**
-- ☁️ **AWS Cloud & DevOps Engineering**
-- 🐳 Docker, Kubernetes & CI/CD Pipelines
-- 🧠 Backend Scalability & Microservices Architecture
+- 🐳 Docker & Kubernetes (Container Orchestration)
+- 🔁 CI/CD Pipelines (Jenkins, GitHub Actions)
+- 🧠 Advanced System Design
+- 💼 Industry-level Full Stack Projects
+- ⚙️ DevOps Pipeline Implementations
 
 ---
 
@@ -92,12 +102,20 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ravindu-jayaweera-a170721b9/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
 </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don't just write code — I engineer solutions that scale 🚀
+> I don’t just write code — I design systems that scale 🚀
